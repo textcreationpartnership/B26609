@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marvels ghost being the true copy of a letter sent to the A.b. of C. upon his suddain sickness, at the Prince of Orange's first arrival into London.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26609</idno><idno type="EEBO-CITATION">17159380</idno>
+  <idno type="VID">206357</idno>
+  <idno type="EEBO-PROQUEST">2248535856</idno>
+  
+            <idno type="STC">Wing M893B</idno>
+            <idno type="OCLC">17159380</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206357)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1620:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Marvels ghost being the true copy of a letter sent to the A.b. of C. upon his suddain sickness, at the Prince of Orange's first arrival into London.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Sancroft, William, 1617-1693 --  Poetry.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1714 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:206357:1"/>
+            <pb facs="tcp:206357:1"/>
+            <head>
+               <hi>Marvels Ghost:</hi> Being the true Copy of a Letter sent to the A. B. of C. upon his suddain Sickness <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Prince of <hi>Orange</hi> first Arrival into <hi>London.</hi>
+            </head>
+            <q>The Archbishops of <hi>Canterbury</hi> have put the Kings of this Land to much Sorrow, and Trouble, for which the Kings have used the more Care and Circumspection to have such Archbishops <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that See, as ei<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her should stand with them, or at least should not be against them. <bibl>Fox. <hi>Acts and Monuments,</hi> Vol. 1. p. 214.</bibl>
+            </q>
+            <lg>
+               <head>The APOLOGY.</head>
+               <l>
+                  <hi>WHen Men of God will do the Devil's Work,</hi>
+               </l>
+               <l>
+                  <hi>And frame New Prayers for</hi> Lewis, <hi>and the</hi> Turk.</l>
+               <l>
+                  <hi>In drunken Clubs Religiously Combine,</hi>
+               </l>
+               <l>
+                  <hi>To make the lost</hi> Mack-Ninny<hi>'s Right Divine:</hi>
+               </l>
+               <l>
+                  <hi>And the whole Town with Sham Distinctions ring</hi>
+               </l>
+               <l>
+                  <hi>Of a</hi> de jure <hi>and</hi> de facto <hi>King,</hi>
+               </l>
+               <l>
+                  <hi>And prate of Duty till they're lost the thing.</hi>
+               </l>
+               <l>
+                  <hi>When those whose Business 'tis to Preach up Peace,</hi>
+               </l>
+               <l>
+                  <hi>Labour to make our Discontents increase:</hi>
+               </l>
+               <l>
+                  <hi>Foment Divisions, and new Storms create:</hi>
+               </l>
+               <l>
+                  <hi>Defame the King and undermine the State,</hi>
+               </l>
+               <l>
+                  <hi>Which wou'd, were they but hang'd, be fortunate.</hi>
+               </l>
+               <l>
+                  <hi>What Indignation can be thought severe?</hi>
+               </l>
+               <l>
+                  <hi>How can a true-born English</hi> Muse <hi>forbear</hi>
+               </l>
+               <pb n="2" facs="tcp:206357:2"/>
+               <l>
+                  <hi>To lash their Folly, and Correct their Vice,</hi>
+               </l>
+               <l>
+                  <hi>And teach the People whence their Plagues arise?</hi>
+               </l>
+               <l>
+                  <hi>How innocent and good soe're they seem,</hi>
+               </l>
+               <l>
+                  <hi>The Source of all our Mischiefs lies in Them.</hi>
+               </l>
+               <l>
+                  <hi>From them, as from</hi> Pandora<hi>'s Box they fly:</hi>
+               </l>
+               <l>
+                  <hi>'Tis their corrupted Breath pollutes our</hi> Northern <hi>Sky.</hi>
+               </l>
+               <l>
+                  <hi>Therefore,</hi> my Lord, <hi>you justly can't accuse</hi>
+               </l>
+               <l>
+                  <hi>This modest Sally of a backward Muse,</hi>
+               </l>
+               <l>
+                  <hi>Which had been damn'd to Silence, and forgot,</hi>
+               </l>
+               <l>
+                  <hi>If you had not reviv'd it with your Plot.</hi>
+               </l>
+               <l>
+                  <hi>'Twas writ to Consolate your Sickness then;</hi>
+               </l>
+               <l>
+                  <hi>If you had mended, this had ne're been seen.</hi>
+               </l>
+               <l>
+                  <hi>But since you every Day grow worse and worse,</hi>
+               </l>
+               <l>
+                  <hi>And still Resolve to be the Nation's Curse.</hi>
+               </l>
+               <l>
+                  <hi>I also am Resolv'd to let you know,</hi>
+               </l>
+               <l>
+                  <hi>Here's one as Stubborn and as bold as you.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>The GHOST.</head>
+               <l>HOW just is then the Tribute of our Eyes?</l>
+               <l>When Vertue Languishes, and Goodness Dies,</l>
+               <l>When holy Prelacy from Court withdrawn,</l>
+               <l>Lies sick at <hi>Lambeth</hi> in a Shrowd of Lawn!</l>
+               <l>Who fearing now Compliance with the Prince,</l>
+               <l>Shou'd better Men to equal Power advance,</l>
+               <l>With-holds his Hand, and in the very nick</l>
+               <l>The humorous Prelate willingly falls Sick.</l>
+               <l>On what small Props a Church-man's health depends!</l>
+               <l>Draw but one Pin and the whole Fabrick bends;</l>
+               <l>Touch but their Wealth, their Power, or their Place,</l>
+               <l>They'll Snuff, and Snort, and Curse you to your Face.</l>
+               <l>Has there a Mischief in the World been done,</l>
+               <l>E're since the odious Name of <hi>B</hi>— known,</l>
+               <l>In which a Clergy-man has not been One!</l>
+               <l>Have there been private Murders, publick Wars,</l>
+               <l>Dividing Schisms or Intestine Jars,</l>
+               <pb n="3" facs="tcp:206357:2"/>
+               <l>Reproaches, Scandals, Goals, Fines, Bloody Laws,</l>
+               <l>Of which they have not been the chiefest Cause!</l>
+               <l>Great <hi>Constantine</hi> how basely hast thou stain'd,</l>
+               <l>Those Glorious Laurels that they Conquests gain'd!</l>
+               <l>Untainted Honour with bright Lustre spread</l>
+               <l>It self in shining circles round thy Head,</l>
+               <l>Which might have shone till now, belov'd, rever'd,</l>
+               <l>In the same Tomb had B—been interr'd</l>
+               <l>With lesser Villains: but nice Goodness spar'd</l>
+               <l>Those Foes that shou'd have the same ruin shar'd.</l>
+               <l>Those Sanctimonious Robbers that did more</l>
+               <l>Infest the Church than Heathen Priests before:</l>
+               <l>They with professed Malice Blood did spill:</l>
+               <l>These Pray, and Smile, and Flatter when they kill.</l>
+               <l>They did their Open Enemies annoy:</l>
+               <l>These kiss the Friends they Murder and Destroy.</l>
+               <l>By these oprest the mournful Church implor'd</l>
+               <l>The tardy Vengeance of thy backward Sword.</l>
+               <l>Had this been done, had thy Imperial Frown</l>
+               <l>But smote those haughty Mitred Monarchs down:</l>
+               <l>Myriads of Blessings shou'd they Reign adorn,</l>
+               <l>Paid by past Ages, this, and those unborn.</l>
+               <l>Tell me, ye doating Bigots who Revere</l>
+               <l>These Raree Shows o'th' Church and Pageants here;</l>
+               <l>Like Tinsel Mortals on a <hi>Gewgaw</hi> Stall,</l>
+               <l>Fram'd for meer show and of no use at all.</l>
+               <l>Tell me in sober seriousness, unvext,</l>
+               <l>What Holiness is to their Cowl annext:</l>
+               <l>What hidden Vertue in their Office lies,</l>
+               <l>Unseen by Men of common Sense and Eyes!</l>
+               <l>Did e're a Bishoprick a Man advance,</l>
+               <l>Above the the Rest in Honour, Truth, and Sence!</l>
+               <l>Or did a fat Advowson ever make</l>
+               <l>A Man preach better and more labour take?</l>
+               <pb n="4" facs="tcp:206357:3"/>
+               <l>They talk'd indeed in very Loyal strain</l>
+               <l>To praise the King did God himself prophane,</l>
+               <l>But sure we ne're shall hear of that again.</l>
+               <l>Born to themselves, themselves alone they please,</l>
+               <l>Steep't in the Sweets of Luxury and Ease:</l>
+               <l>The Land they Canton and Divide the Spoil,</l>
+               <l>And Drain the Moisture of our Wealthy Isle.</l>
+               <l>For Pulpit-work let those who can do that</l>
+               <l>They're all too Dull, too Feeble, or too Fat.</l>
+               <l>Are these the Men that hope to Govern now?</l>
+               <l>To whom our Church and State again must bow?</l>
+               <l>Have we then but the Blessed Prospect seen</l>
+               <l>Of dawning Peace, with a vast Gulph between?</l>
+               <l>Like Men Condemn'd on flattering hopes born high</l>
+               <l>To fall with greater Ruin from the Sky!</l>
+               <l>Good God forbid thy Church shou'd e're be sway'd</l>
+               <l>By those again that have thy Truth betray'd:</l>
+               <l>Who lately such a fatal Instance gave</l>
+               <l>What precious care they'd of Religion have,</l>
+               <l>That durst adore a Fool and Trust a Knave.</l>
+               <l>Shou'd it be thus how wou'd our Isle complain,</l>
+               <l>And beg to have our Wandring King again?</l>
+               <l>Intreat the worst his incens'd Rage can do,</l>
+               <l>The less important Mischief of the two:</l>
+               <l>Which is the Cruel'st Beast will then be known.</l>
+               <l>An English Prelate or a French Dragoon.</l>
+               <l>From hence, <hi>my Lord,</hi> you may with ease foreknow</l>
+               <l>What Epitaphs we shall on such bestow:</l>
+               <l>When such depart, (when will just Heaven think fit</l>
+               <l>To strike and do an injur'd Nation right!)</l>
+               <l>The most Obdurate Muse will strain a Verse,</l>
+               <l>And Bathe with Tears, of joy, each Bishops Herse.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206357:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
